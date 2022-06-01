@@ -1,2 +1,2 @@
-# csgo-cfg
-full csgo cfg for when im at the major next year ;)
+<b>src-cfg</b><br>
+config files i use for video games
